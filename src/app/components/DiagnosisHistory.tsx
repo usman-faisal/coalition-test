@@ -33,7 +33,7 @@ export default function DiagnosisHistory() {
     }
   }
   return (
-    <div className="bg-white p-12">
+    <div className="bg-white p-12 rounded-3xl">
       <header className="mb-4">
         <h2 className="text-4xl font-bold">Diagnosis History</h2>
       </header>

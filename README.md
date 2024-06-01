@@ -1,6 +1,7 @@
 # Coalition Admin Dashboard
 
 This project is an admin dashboard built for Coalition using Next.js, TailwindCSS, and Zustand for state management. Note that it is not yet optimized for mobile devices.
+[Live Demo](https://coalition-test-six.vercel.app/)
 
 ## Development Setup
 

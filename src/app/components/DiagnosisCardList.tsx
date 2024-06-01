@@ -28,7 +28,7 @@ export default function DiagnosisCardList() {
         status="Normal"
         title="Respiratory Rate"
         value={patient.diagnosis_history[0].respiratory_rate.value + " bpm"}
-        className="bg-blue "
+        className="bg-blue"
       />
       <DiagnosisCard
         icon={

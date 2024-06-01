@@ -13,7 +13,7 @@ export default function DiagnosisCard({
 }) {
   return (
     <div
-      className={`flex flex-col items-center justify-center gap-2 p-4 bg-white shadow-md rounded-3xl ${className}`}
+      className={`flex flex-col items-center justify-center gap-2 p-4 shadow-md rounded-3xl ${className}`}
     >
       <div className="flex items-center gap-2">{icon}</div>
       <h3 className="text-lg font-semibold">{title}</h3>
